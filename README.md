@@ -45,4 +45,16 @@ me.say_hi()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selyiah&theme=gotham&show_icons=true)
 
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Selyiah&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+
+
+ <div align="center">
+  <a href="https://github.com/Selyiah/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Selyiah&style=for-the-badge">
+</a>
+
+
+<img align="left" width="20%" height= "20%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
+
+
 ![diegodrawsart-women-and-girls-in-science](https://github.com/Selyiah/Selyiah/assets/140277594/6ac4df2b-6df2-4ea3-9acb-2c95d8d7c02f)
