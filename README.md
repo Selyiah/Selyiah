@@ -53,7 +53,7 @@ Languages & Tools👩🏽‍💻
 </a>
 
 
-<img align="left" width="50%" height= "50%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
+<img align="left" width="40%" height= "40%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
 
 
 ![diegodrawsart-women-and-girls-in-science](https://github.com/Selyiah/Selyiah/assets/140277594/6ac4df2b-6df2-4ea3-9acb-2c95d8d7c02f)
