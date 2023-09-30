@@ -14,6 +14,26 @@ Languages & Tools👩🏽‍💻
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
+```python
+# -*- code -*-
+
+
+class Engineer:
+
+    def __init__(self):
+        self.name = "Sely"
+        self.role = "Full stack"
+        self.language_spoken = ["en_GB", "en_ESP"]
+
+    def say_hi(self):
+        print("Thanks for visiting, stay for a while 💅🏽 ")
+
+
+me = Engineer()
+me.say_hi()
+```
+
+
 ![anime-blush-anime-laptop](https://github.com/Selyiah/Selyiah/assets/140277594/a9dea161-5793-4788-bdec-322e668c038f)
 ![uh-talk](https://github.com/Selyiah/Selyiah/assets/140277594/beca7655-661a-4748-954b-41bdb13fbe23)
 ![jadu-ava-jadu-avas](https://github.com/Selyiah/Selyiah/assets/140277594/41cebed6-b484-4512-b3c4-2a0cf2be3503)
@@ -26,4 +46,3 @@ Languages & Tools👩🏽‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selyiah&theme=gotham&show_icons=true)
 
 ![diegodrawsart-women-and-girls-in-science](https://github.com/Selyiah/Selyiah/assets/140277594/6ac4df2b-6df2-4ea3-9acb-2c95d8d7c02f)
-
