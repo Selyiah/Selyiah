@@ -1,17 +1,7 @@
-![bratz-onikaski](https://github.com/Selyiah/Selyiah/assets/140277594/270da474-450c-4b67-894a-bba6434a5d47)
+💅🏽💅🏽💅🏽💅🏽💅🏽💅🏽💅🏽![bratz-onikaski](https://github.com/Selyiah/Selyiah/assets/140277594/270da474-450c-4b67-894a-bba6434a5d47)💅🏽💅🏽💅🏽💅🏽💅🏽💅🏽💅🏽
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DBDAC&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Sely+here+;Full+stack+but+I+prefer+backend+;Desired+focus+in+AI+and+Robotics+)](https://git.io/typing-svg)
-
-Languages & Tools👩🏽‍💻 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
 ```python
@@ -32,7 +22,16 @@ class Engineer:
 me = Engineer()
 me.say_hi()
 ```
+Languages & Tools👩🏽‍💻 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 ![anime-blush-anime-laptop](https://github.com/Selyiah/Selyiah/assets/140277594/a9dea161-5793-4788-bdec-322e668c038f)
 ![uh-talk](https://github.com/Selyiah/Selyiah/assets/140277594/beca7655-661a-4748-954b-41bdb13fbe23)
