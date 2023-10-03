@@ -46,7 +46,8 @@ Languages & Tools👩🏽‍💻
 
  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Selyiah&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
-<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@Selyiah&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&background=FFFFFF00">
+
+<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@Selyiah&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00">
 
 
  <div align="center">
