@@ -42,9 +42,11 @@ Languages & Tools👩🏽‍💻
 ![rickandmorty-it-defies-all-logic](https://github.com/Selyiah/Selyiah/assets/140277594/12e8ffa0-9ba6-4db0-b86c-c153eedca78f)
 ![zalupa](https://github.com/Selyiah/Selyiah/assets/140277594/5e08407f-c56e-4887-9950-fd4dd62337f0)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selyiah&theme=gotham&show_icons=true)
+![Selyiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=selyiah&theme=gotham&show_icons=true)
 
  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Selyiah&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+
+<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@Selyiah&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true&background=FFFFFF00">
 
 
  <div align="center">
