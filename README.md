@@ -1,7 +1,7 @@
 💅🏽💅🏽💅🏽💅🏽💅🏽💅🏽💅🏽![bratz-onikaski](https://github.com/Selyiah/Selyiah/assets/140277594/270da474-450c-4b67-894a-bba6434a5d47)💅🏽💅🏽💅🏽💅🏽💅🏽💅🏽💅🏽
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DBDAC&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Sely+here+;Full+stack+but+I+prefer+backend+;Desired+focus+in+AI+and+Robotics+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DBDAC&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Sely+here;Prefer+back-end+languages+;Desired+focus+in+AI+%26+Robotics)](https://git.io/typing-svg)
 
 
 ```python
@@ -12,7 +12,7 @@ class Engineer:
 
     def __init__(self):
         self.name = "Sely"
-        self.role = "Full stack"
+        self.role = "Software"
         self.language_spoken = ["en_GB", "en_ESP"]
 
     def say_hi(self):
