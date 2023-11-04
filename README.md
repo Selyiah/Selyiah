@@ -13,7 +13,7 @@ class Engineer:
     def __init__(self):
         self.name = "Sely"
         self.role = "Software"
-        self.language_spoken = ["en_GB", "en_ESP"]
+        self.language_spoken = ["en_GB", "en_ES"]
 
     def say_hi(self):
         print("Thanks for visiting, stay for a while 💅🏽 ")
