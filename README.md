@@ -45,7 +45,17 @@ Languages & Tools👩🏽‍💻
 ![zalupa](https://github.com/Selyiah/Selyiah/assets/140277594/5e08407f-c56e-4887-9950-fd4dd62337f0)
 
 ![Selyiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=selyiah&theme=gotham&show_icons=true)
-![Selyiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=selyiah&show_icons=true&theme=radical)
+
+## 📊&nbsp;**`Analytics`**
+<p align="center">
+  <a href="https://github.com/Selyiah">
+    <img height="150" align="center" src="./profile/stats.svg" />
+  </a>
+  <a href="https://github.com/Selyiah">
+    <img height="150" align="center" src="./profile/top-langs.svg" />
+  </a>
+</p>
+
 
  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Selyiah&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 
